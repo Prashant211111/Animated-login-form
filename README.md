@@ -19,4 +19,4 @@ Credits
 Designed and developed by Prashant211111
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details. GitHub Repository
+This  project is licensed under the MIT License.
